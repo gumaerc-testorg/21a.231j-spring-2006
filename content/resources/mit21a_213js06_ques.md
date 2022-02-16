@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding de-essentializing sex.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-231j-gender-sexuality-and-society-spring-2006/eb10440bd0d1c54b28fced7fff51369f_MIT21A_213JS06_ques.pdf
+file: /media/courses/21a-231j-gender-sexuality-and-society-spring-2006/eb10440bd0d1c54b28fced7fff51369f_MIT21A_213JS06_ques.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'de-essentializing sex/gender/kinship; querying motherhood '
 uid: eb10440b-d0d1-c54b-28fc-ed7fff51369f

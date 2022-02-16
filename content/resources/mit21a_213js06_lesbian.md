@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains information regarding lesbian experience in the United
   States.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-231j-gender-sexuality-and-society-spring-2006/155feb5cb5500fea564d0845192f051d_MIT21A_213JS06_lesbian.pdf
+file: /media/courses/21a-231j-gender-sexuality-and-society-spring-2006/155feb5cb5500fea564d0845192f051d_MIT21A_213JS06_lesbian.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lesbian experience in the United States
 uid: 155feb5c-b550-0fea-564d-0845192f051d

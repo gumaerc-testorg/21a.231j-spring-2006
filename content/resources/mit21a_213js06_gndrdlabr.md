@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding gender labour.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-231j-gender-sexuality-and-society-spring-2006/7f90e4a337a2e09985e0c7594a4ab299_MIT21A_213JS06_gndrdlabr.pdf
+file: /media/courses/21a-231j-gender-sexuality-and-society-spring-2006/7f90e4a337a2e09985e0c7594a4ab299_MIT21A_213JS06_gndrdlabr.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Glenn\u2019s critique (end of article) of \u201Ccomparable worth\u201D \u2013\
   \ equal pay for equal work"
