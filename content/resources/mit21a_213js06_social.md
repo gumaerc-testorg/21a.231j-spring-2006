@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f832b69-d577-0255-5ac0-12c6042c9ce5
 resourcetype: Document
 title: social reproduction
 uid: 4a85e7ba-4f94-a27e-5af7-5da17d987355

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f832b69-d577-0255-5ac0-12c6042c9ce5
 resourcetype: Document
 title: "Annick Prieur\u2019s Mema\u2019s House"
 uid: cd76a44d-7a62-e071-dae8-5c00f37610bd

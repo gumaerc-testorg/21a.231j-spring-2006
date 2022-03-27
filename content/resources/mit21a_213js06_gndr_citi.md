@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f832b69-d577-0255-5ac0-12c6042c9ce5
 resourcetype: Document
 title: 'class # 21: gender and citizenship'
 uid: 4a0fd362-9f28-5fe2-7af3-d1efe59bb921

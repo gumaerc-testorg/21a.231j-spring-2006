@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f832b69-d577-0255-5ac0-12c6042c9ce5
 resourcetype: Document
 title: history of modern sexual identities
 uid: c4a7d7fd-2972-e8e3-0637-f3c408f1334c

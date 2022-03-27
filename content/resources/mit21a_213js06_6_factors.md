@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 934ab1e5-6945-b977-b4b4-0f3bc6326b54
 resourcetype: Document
 title: GENDER, SEXUALITY & SOCIETY HANDOUT
 uid: eca437dd-a6e9-70c3-4528-8959847cc280

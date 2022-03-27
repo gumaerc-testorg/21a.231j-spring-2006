@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f832b69-d577-0255-5ac0-12c6042c9ce5
 resourcetype: Document
 title: "what if we add Kandiyoti\u2019s \u201Cpatriarchal bargain\u201D into discussion"
 uid: 8e51a923-3a4b-080f-c290-ded534d32d57

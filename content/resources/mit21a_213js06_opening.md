@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f832b69-d577-0255-5ac0-12c6042c9ce5
 resourcetype: Document
 title: 'GENDER, SEXUALITY & SOCIETY '
 uid: 1843c305-9eed-1fdc-3042-5c86d776d2cd

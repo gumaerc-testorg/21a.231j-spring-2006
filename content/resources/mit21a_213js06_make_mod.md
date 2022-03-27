@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f832b69-d577-0255-5ac0-12c6042c9ce5
 resourcetype: Document
 title: 'Making Modern Mothers: Ethics and Family Planning in Urban Greece'
 uid: 32ce2886-e0a3-2278-b400-fbfcb289e2b5

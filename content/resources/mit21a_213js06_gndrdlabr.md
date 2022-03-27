@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f832b69-d577-0255-5ac0-12c6042c9ce5
 resourcetype: Document
 title: "Glenn\u2019s critique (end of article) of \u201Ccomparable worth\u201D \u2013\
   \ equal pay for equal work"

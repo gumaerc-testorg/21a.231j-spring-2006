@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 934ab1e5-6945-b977-b4b4-0f3bc6326b54
 resourcetype: Document
 title: medical classifications of intersex
 uid: ae2c35b7-a22c-4b1b-7046-d2119a0a1476
