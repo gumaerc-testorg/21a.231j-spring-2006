@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains requirements of the course,grading criteria and
+  a calender covering all the lecture topics of the course divided in four parts and
+  their key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

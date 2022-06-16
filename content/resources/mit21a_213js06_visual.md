@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding visualizing the fetus.
-file: /media/courses/21a-231j-gender-sexuality-and-society-spring-2006/97d5a218e1d44ba398ca492655767063_MIT21A_213JS06_visual.pdf
+file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/97d5a218e1d44ba398ca492655767063_MIT21A_213JS06_visual.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: visualizing the fetus
 uid: 97d5a218-e1d4-4ba3-98ca-492655767063
 ---
+This file contains information regarding visualizing the fetus.
+
