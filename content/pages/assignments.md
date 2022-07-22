@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains topics: First Paper, Second Paper and Third paper.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1734ac81-563d-4462-45ae-563c46f7542e
 ---
@@ -26,7 +30,7 @@ Choose one of the following topics:
 Second Paper
 ------------
 
-Sample Student Paper ([PDF]({{< baseurl >}}/resources/mit21a_213js06_sidd)) (Courtesy of Aayesha Siddiqui. Used with permission.)
+Sample Student Paper ({{% resource_link 889b06c9-6b63-e1bc-572d-e7aa2768cb6a "PDF" %}}) (Courtesy of Aayesha Siddiqui. Used with permission.)
 
 The aim of this second paper is critically to engage an issue of current social concern and controversy in the U.S. With reference to both theoretical and ethnographic case study materials from our readings, drawing from US and other cultural settings.
 
