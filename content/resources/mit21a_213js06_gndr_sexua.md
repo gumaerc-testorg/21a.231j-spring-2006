@@ -6,6 +6,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/49138d2e609c8eb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: follow-up thoughts from last time
 uid: 49138d2e-609c-8eb5-f998-aa5affb2e970
 ---
 This file contains information regarding follow-up thoughts from last time.
-

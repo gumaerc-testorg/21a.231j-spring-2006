@@ -5,6 +5,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/7f90e4a337a2e09
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Glenn\u2019s critique (end of article) of \u201Ccomparable worth\u201D \
 uid: 7f90e4a3-37a2-e099-85e0-c7594a4ab299
 ---
 This file contains information regarding gender labour.
-

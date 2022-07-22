@@ -6,6 +6,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/cd76a44d7a62e07
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Annick Prieur\u2019s Mema\u2019s House"
 uid: cd76a44d-7a62-e071-dae8-5c00f37610bd
 ---
 This file contains information regarding Annick Prieur’s Mema’s House.
-

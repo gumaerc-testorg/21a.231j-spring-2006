@@ -5,6 +5,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/4a85e7ba4f94a27
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: social reproduction
 uid: 4a85e7ba-4f94-a27e-5af7-5da17d987355
 ---
 This file contains information regarding social reproduction
-

@@ -6,6 +6,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/32ce2886e0a3227
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Making Modern Mothers: Ethics and Family Planning in Urban Greece'
 uid: 32ce2886-e0a3-2278-b400-fbfcb289e2b5
 ---
 This file contains information regarding making modern mothers: ethics and family planning in urban greece.
-

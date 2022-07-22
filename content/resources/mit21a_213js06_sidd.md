@@ -5,6 +5,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/889b06c96b63e1b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Gendered performance and systems of knowledge/power:  A Foucauldian anal
 uid: 889b06c9-6b63-e1bc-572d-e7aa2768cb6a
 ---
 This resource contains information related to gendered performance.
-

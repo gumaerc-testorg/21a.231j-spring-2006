@@ -5,6 +5,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/c4a7d7fd2972e8e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: history of modern sexual identities
 uid: c4a7d7fd-2972-e8e3-0637-f3c408f1334c
 ---
 This file contains information regarding history of modern sexual identities.
-

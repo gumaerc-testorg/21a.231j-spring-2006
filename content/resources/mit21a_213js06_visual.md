@@ -5,6 +5,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/97d5a218e1d44ba
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: visualizing the fetus
 uid: 97d5a218-e1d4-4ba3-98ca-492655767063
 ---
 This file contains information regarding visualizing the fetus.
-

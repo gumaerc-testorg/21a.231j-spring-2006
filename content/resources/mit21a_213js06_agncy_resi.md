@@ -5,6 +5,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/8e51a9233a4b080
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "what if we add Kandiyoti\u2019s \u201Cpatriarchal bargain\u201D into dis
 uid: 8e51a923-3a4b-080f-c290-ded534d32d57
 ---
 This file contains information regarding agency resistance.
-

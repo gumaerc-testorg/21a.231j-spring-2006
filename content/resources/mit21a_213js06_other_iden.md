@@ -6,6 +6,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/0706b3fe767af30
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: do western sexual identities travel?
 uid: 0706b3fe-767a-f300-edd4-20275ad56105
 ---
 This file contains information regarding do western sexual identities travel?
-

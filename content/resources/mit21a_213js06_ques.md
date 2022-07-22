@@ -5,6 +5,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/eb10440bd0d1c54
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'de-essentializing sex/gender/kinship; querying motherhood '
 uid: eb10440b-d0d1-c54b-28fc-ed7fff51369f
 ---
 This file contains information regarding de-essentializing sex.
-

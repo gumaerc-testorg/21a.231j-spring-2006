@@ -5,6 +5,7 @@ file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/4a0fd3629f285fe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'class # 21: gender and citizenship'
 uid: 4a0fd362-9f28-5fe2-7af3-d1efe59bb921
 ---
 This file contains information regarding  gender and citizenship.
-
