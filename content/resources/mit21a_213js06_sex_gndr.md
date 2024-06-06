@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding Is sex to gender as nature to
   culture?
 file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/4f457cd9ed3bd7a9b6962ce8eeb84505_MIT21A_213JS06_sex_gndr.pdf
+file_size: 72053
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
