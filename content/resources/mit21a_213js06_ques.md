@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding de-essentializing sex.
-file: /ol-ocw-studio-app/courses/21a-231j-gender-sexuality-and-society-spring-2006/eb10440bd0d1c54b28fced7fff51369f_MIT21A_213JS06_ques.pdf
+file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/eb10440bd0d1c54b28fced7fff51369f_MIT21A_213JS06_ques.pdf
 file_size: 91595
 file_type: application/pdf
 learning_resource_types:
