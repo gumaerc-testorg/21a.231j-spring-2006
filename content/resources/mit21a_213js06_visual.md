@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding visualizing the fetus.
-file: /ol-ocw-studio-app/courses/21a-231j-gender-sexuality-and-society-spring-2006/97d5a218e1d44ba398ca492655767063_MIT21A_213JS06_visual.pdf
+file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/97d5a218e1d44ba398ca492655767063_MIT21A_213JS06_visual.pdf
 file_size: 72660
 file_type: application/pdf
 learning_resource_types:

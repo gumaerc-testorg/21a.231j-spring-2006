@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding agency resistance.
-file: /ol-ocw-studio-app/courses/21a-231j-gender-sexuality-and-society-spring-2006/8e51a9233a4b080fc290ded534d32d57_MIT21A_213JS06_agncy_resi.pdf
+file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/8e51a9233a4b080fc290ded534d32d57_MIT21A_213JS06_agncy_resi.pdf
 file_size: 67971
 file_type: application/pdf
 learning_resource_types:
