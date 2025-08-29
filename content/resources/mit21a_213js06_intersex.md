@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding intersex.
-file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/681ac7170a719efec8398de85dd54fa1_MIT21A_213JS06_intersex.pdf
+file: /ol-ocw-studio-app/courses/21a-231j-gender-sexuality-and-society-spring-2006/681ac7170a719efec8398de85dd54fa1_MIT21A_213JS06_intersex.pdf
 file_size: 69013
 file_type: application/pdf
 learning_resource_types:

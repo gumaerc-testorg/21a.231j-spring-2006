@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding gender and status in agrarian
   societies.
-file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/f2ad19fa03179bddfb66fd58a113c3b3_MIT21A_213JS06_gndr_agra.pdf
+file: /ol-ocw-studio-app/courses/21a-231j-gender-sexuality-and-society-spring-2006/f2ad19fa03179bddfb66fd58a113c3b3_MIT21A_213JS06_gndr_agra.pdf
 file_size: 66048
 file_type: application/pdf
 learning_resource_types:
