@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding sexual violence.
-file: /courses/21a-231j-gender-sexuality-and-society-spring-2006/1feac4b99f741dffd6d753c87de1b6d5_MIT21A_213JS06_sxl_vio.pdf
+file: /ol-ocw-studio-app/courses/21a-231j-gender-sexuality-and-society-spring-2006/1feac4b99f741dffd6d753c87de1b6d5_MIT21A_213JS06_sxl_vio.pdf
 file_size: 65192
 file_type: application/pdf
 learning_resource_types:
