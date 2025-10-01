@@ -96,7 +96,7 @@ Women in the Global Economy (No Lecture)
 
 Freeman, Carla. "Designing Women: Corporate Discipline and Barbados's Off-Shore Pink-Collar Sector." *Cultural Anthropology* 8, no. 2 (1993): 169-186.
 
-Film: Redmon, David. [*Mardi Gras: Made in China*](https://www.imdb.com/title/tt0436569/). Revised ed. Carinvalesque Films. Brooklyn, NY: D. Redmon, 2006.
+Film: Redmon, David. {{% resource_link "4877b4fe-2101-4b09-8014-1a34be72a00f" "*Mardi Gras: Made in China*" %}}. Revised ed. Carinvalesque Films. Brooklyn, NY: D. Redmon, 2006.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -108,7 +108,7 @@ Weston, Kath. "Production as Means, Production as Metaphor: Women's Struggle to 
 
 McDowell, Linda. "Body Work 1: Men Behaving Badly" and "Body Work II: The Masqueraders." In *Capital Culture: Gender at Work in the City*. Malden, MA: Blackwell Publishers, 1997, pp. 158-203. ISBN: 9780631205302.
 
-[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262232234) Williams, Rosalind. "Men and Women in a Technological World." In *Retooling: A Historian Confronts Technological Change*. Cambridge, MA: MIT Press, 2002, pp. 198-211. ISBN: 9780262232234.
+{{% resource_link "c2add811-fbe9-47eb-b3dd-06937d5f5a88" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Williams, Rosalind. "Men and Women in a Technological World." In *Retooling: A Historian Confronts Technological Change*. Cambridge, MA: MIT Press, 2002, pp. 198-211. ISBN: 9780262232234.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -177,7 +177,7 @@ Transgender and Transexualism in the U.S.
 
 Heyes, Cressida J. "Feminist Solidarity after Queer Theory: The Case of Transgender." *Signs* 28, no. 4 (2003): 1093-1120.
 
-Film: Schermerhorn, Candace, and Bestor Cram. [*You Don't Know Dick: Courageous Hearts of Transsexual Men*](http://www.imdb.com/title/tt0118206/). VHS. Berkeley, CA: University of California Extension Center for Media and Independent Learning, 1997.
+Film: Schermerhorn, Candace, and Bestor Cram. {{% resource_link "01389d77-c78a-4c28-a8f2-71829923d9aa" "*You Don't Know Dick: Courageous Hearts of Transsexual Men*" %}}. VHS. Berkeley, CA: University of California Extension Center for Media and Independent Learning, 1997.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
